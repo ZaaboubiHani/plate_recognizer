@@ -1,5 +1,3 @@
-
-
 class Globals {
-  static String baseUrl = 'https://bio.brokermarketing.dz';
+  static String baseUrl = 'http://178.32.240.74:8000';
 }
